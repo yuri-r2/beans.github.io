@@ -1,0 +1,46 @@
+* {
+  font-family: 'Passions Conflict', cursive;
+  font-size: xx-large;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+div {
+  border: 15px solid salmon;
+}
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+.card {
+  background: green;
+  padding: 1rem;
+  margin: 2rem 8rem;
+  border: 1px solid black;
+  border-radius: .5rem;
+}
+
+.card-header {
+  font-size: 3rem;
+}
+
+#eat-bean {
+  padding: .25em .5em;
+}
+#bean-info {
+  padding: .5em .25em;
+}
+button:hover, button:focus {
+  background: red;
+}
+a:hover {
+  text-shadow: 10rem;
+  text-size: 5rem;
+  background: gold;
+  color:aqua;
+}
